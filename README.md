@@ -1,6 +1,6 @@
 # RWKV-howto
 
-possibly useful materials for learning [RWKV](https://github.com/BlinkDL/RWKV-LM).
+possibly useful materials and tutorial for learning [RWKV](https://github.com/BlinkDL/RWKV-LM).
 
 > RWKV: Parallelizable RNN with Transformer-level LLM Performance.
 
