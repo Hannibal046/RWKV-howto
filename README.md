@@ -1,12 +1,12 @@
 # RWKV-howto
 
-possibly useful materials and tutorial for learning [RWKV](https://github.com/BlinkDL/RWKV-LM).
+possibly useful materials and tutorial for learning [RWKV](https://www.rwkv.com).
 
 > RWKV: Parallelizable RNN with Transformer-level LLM Performance.
 
 ### Relevant Papers
 
-- :star2:(2023-05) RWKV: Reinventing RNNs for the Transformer Era [arxiv]()
+- :star2:(2023-05) RWKV: Reinventing RNNs for the Transformer Era [arxiv](https://arxiv.org/abs/2305.13048)
 - (2023-03) Resurrecting Recurrent Neural Networks for Long Sequences [arxiv](https://arxiv.org/abs/2303.06349)
 
 - (2023-02) SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks [arxiv](https://arxiv.org/abs/2302.13939)
